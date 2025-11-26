@@ -56,3 +56,26 @@ O diferencial técnico deste projeto é a implementação de um CSS avançado pa
 1. **Clone o repositório**
    ```bash
    git clone [https://github.com/SEU-USUARIO/wise-routes.git](https://github.com/SEU-USUARIO/wise-routes.git)
+
+2. **Instale as dependências**
+   ```bash
+   npm install
+
+3. **Execute o servidor de desenvolvimento**
+   ```bash
+   npm run dev
+
+3. **Acesse http://localhost:3030 no seu navegador.**
+
+---
+
+### Próximo Passo (No Terminal)
+
+Depois de salvar algum conteúdo volte ao terminal para enviar essa atualização para o GitHub:
+
+```bash
+   git add .
+   git commit -m "Digite o título do commit"
+   git push
+
+E pronto! Seu projeto estará online e documentado. 🚀
